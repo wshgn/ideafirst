@@ -5,6 +5,7 @@ package test;
  */
 public class Test {
     int x=9;
+    int y=1;
     public static void main(String[] args) {
 
     }
